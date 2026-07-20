@@ -25,8 +25,7 @@ Designed with a clean, accessible, and responsive interface, the website serves 
 
 ## Live Demo
 
-> A live demo is not currently available. To view the project, clone the repository and open `index.html` in any modern browser.
-
+            https://abishek492004.github.io/Yv-Edtech-Content-Solution/
 ---
 
 ## Features
@@ -61,7 +60,7 @@ Designed with a clean, accessible, and responsive interface, the website serves 
 | **Why We?** | `why-we.html` | Detailed value proposition — quality, scalability, AI integration, cost-effectiveness, confidentiality |
 | **Services** | `services.html` | 10 detailed service cards in a grid layout with numbered badges and hover effects |
 | **Careers** | `careers.html` | Remote work opportunities, hiring process, applicant criteria, and apply sidebar |
-| **Contact Us** | `contact.html** | Contact form, phone/email/address info boxes, and illustration |
+| **Contact Us** | `contact.html` | Contact form, phone/email/address info boxes, and illustration |
 
 ---
 
@@ -193,22 +192,6 @@ Additional responsive features:
 The site uses widely-supported standards (CSS Grid, Flexbox, CSS Custom Properties, IntersectionObserver, ES6). Internet Explorer is not supported.
 
 ---
-
-## Screenshots
-
-> Screenshots are not included in this repository. Below are placeholder descriptions of key pages.
-
-| Page | Description |
-|---|---|
-| **Home Page** | Hero section with animated heading, 6 service cards in a 3-column grid, client logo carousel, company overview |
-| **About Us** | Page header with animated gradient, mission/vision statements, core values listed with icons |
-| **Why We?** | Animated hero with question mark graphic, detailed bulleted list of value propositions |
-| **Services** | Dark teal hero, 9 service cards in a 3-column grid, standalone Workflow card below, "We offer end-to-end solutions" callout, blue "Interested" panel |
-| **Careers** | Page header, detailed content about hiring process and criteria, apply sidebar with button |
-| **Contact Us** | Contact form with illustration side-by-side, 3 info boxes (phone, email, address) |
-
----
-
 ## Future Improvements
 
 - [ ] Integrate a **backend contact form** (PHP, Node.js, or Formspree) for real email delivery
@@ -226,17 +209,11 @@ The site uses widely-supported standards (CSS Grid, Flexbox, CSS Custom Properti
 ## Author
 
 **Abishek S**  
-- Portfolio: [abisheks.me](https://abisheks.me) (placeholder)  
-- GitHub: [@abisheks](https://github.com/abisheks) (placeholder)  
-- Email: abishek@example.com (placeholder)
+<!-- - Portfolio: [abisheks.me](https://abisheks.me) (placeholder)   -->
+- GitHub: [@abishek](https://github.com/Abishek492004) (placeholder)  
+- Email: abishek04092004@gmail.com (placeholder)
 
 > This project was developed as a professional website for Yv EdTech Content Solutions.
-
----
-
-## License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details (if available).
 
 ---
 
